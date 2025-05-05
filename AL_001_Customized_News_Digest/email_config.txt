@@ -1,0 +1,7 @@
+{
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "username": "insert user email",
+    "password": "insert user password (gmail)",
+    "recipient": "insert recipient"
+  }
